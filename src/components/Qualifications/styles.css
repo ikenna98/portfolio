@@ -3,6 +3,11 @@
   top: 10px;
 }
 
+#scrollHelp {
+  font-size: 10px;
+  padding-top: 10px;
+}
+
 .qualifications-container {
   position: absolute;
   display: flex;

@@ -12,6 +12,7 @@ function Qualifications() {
   return (
     <div>
       <span className="quali-text">My Skills</span>
+      <p id='scrollHelp'>Scroll left for more</p>
       <div className="qualifications-container" {...events} ref={ref}>
         <div className="qualification">
           <div className="content html"></div>
