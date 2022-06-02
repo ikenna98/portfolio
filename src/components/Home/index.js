@@ -42,11 +42,12 @@ function Home() {
       <h2>
         <span>About Me</span> <br />
         <p>
-          I am a highly motivated, hardworking mechanical engineering graduate, who
-          believes that creativity is vital in the workplace as it gives you the
-          ability to contribute inventive and imaginative ideas. I have always
-          been passionate about technology as it is the perfect mix of
-          creativity and logic; with the ability to shape the world.
+          I am a highly motivated, hardworking mechanical engineering graduate
+          based in London. I believe that creativity is vital in the workplace
+          as it gives you the ability to contribute inventive and imaginative
+          ideas. I have always been passionate about technology as it is the
+          perfect mix of creativity and logic; with the ability to shape the
+          world.
         </p>
       </h2>
 
