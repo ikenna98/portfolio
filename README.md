@@ -1,7 +1,7 @@
 # My Portfolio
 This is a portfolio I created after my 3 months of training at futureproof, created using React.
 
-It can be found [here](https://ikennas-portfolio.netlify.app/)
+It can be found [here](https://ikennas-portfolio.netlify.app/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/64c2e77f-6d06-4126-b859-4141ad37cd8c/deploy-status)](https://app.netlify.com/sites/ikennas-portfolio/deploys)
 
