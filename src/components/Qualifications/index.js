@@ -33,10 +33,6 @@ function Qualifications() {
           <div className="content docker"></div>
           <h1 className="shortQual">docker</h1>
         </div>
-        {/* <div className="qualification">
-          <div className="content bootstrap"></div>
-          <h1>bootstrap</h1>
-        </div> */}
         <div className="qualification">
           <div className="content python"></div>
           <h1 className="shortQual">python</h1>
@@ -49,21 +45,6 @@ function Qualifications() {
           <div className="content react"></div>
           <h1 className="shortQual">react</h1>
         </div>
-        {/* <div className="qualification">
-          <div className="content c-plus-plus"></div>
-          <h1>c++</h1>
-        </div> */}
-        
-        {/* <div className="qualification">
-          <div className="content c-sharp"></div>
-          <h1>c#</h1>
-        </div> */}
-        
-        {/* <div className="qualification">
-          <div className="content kotlin"></div>
-          <h1>kotlin</h1>
-        </div> */}
-        
       </div>
     </div>
   );
